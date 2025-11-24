@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-数据分析与特征选择示例
-====================
-
-这个脚本展示了如何使用Python进行数据分析和特征选择。
-包括数据加载、探索性分析、特征重要性评估和可视化。
-"""
 
 import numpy as np
 import pandas as pd
